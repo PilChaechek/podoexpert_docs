@@ -2,7 +2,7 @@
 
 [← Назад к содержанию](index.md)
 
-Путь: **Магазин → Заказы**  
+Путь: `Магазин → Заказы`  
 Прямая ссылка: [podomarket.ru/bitrix/admin/sale_order.php](https://podomarket.ru/bitrix/admin/sale_order.php?lang=ru)
 
 ![Список заказов](images/18.png)
